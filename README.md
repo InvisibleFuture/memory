@@ -1,6 +1,6 @@
 # avg
 
-> 何来描述?
+> ahahaha..
 
 ## Build Setup
 
