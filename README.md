@@ -1,36 +1,30 @@
-# memory
+# avg
 
-hi !
+> 何来描述?
 
-nginx /
-php + xcache
-redis > mysql
+## Build Setup
 
-redis:
-    1   [ 'the title','message date' ]
-    2   the title
-    3   the title
-    4   the title
+``` bash
+# install dependencies
+npm install
 
-    // hot data
-    
-    index_hot []
-    table_hot []
-    users_hot []
-    
-    mysql_table [] > av10000 - av19999 => table_av1, av20000-av29999 => table_av2
-    if PHP find ： table_av1 > avatice 12324
-mysql:
-    1   av
-    2   t
-    3   u
+# serve with hot reload at localhost:8080
+npm run dev
 
+# build for production with minification
+npm run build
 
+# build for production and view the bundle analyzer report
+npm run build --report
 
+# run unit tests
+npm run unit
 
+# run e2e tests
+npm run e2e
 
+# run all tests
+npm test
+```
 
-
-
-
-
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
